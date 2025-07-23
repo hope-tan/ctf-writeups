@@ -16,9 +16,9 @@ Each writeup includes my methodology, tools used, and key takeaways — written 
 ```
 ctf-writeups/
 ├── [platform-name]/
-│   ├── [challenge-name]/
-│   │   ├── [writeup.md]
-|   |   ├── [additional-files]
+│   ├── [challenge-category]/
+│   │   ├── [challenge-name.md]/   #writeup   
+│   │   ├── [files-if-any]
 ````
 
 ---
