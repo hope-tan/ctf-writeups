@@ -15,11 +15,10 @@ Each writeup includes my methodology, tools used, and key takeaways — written 
 
 ```
 ctf-writeups/
-├── [Platform-Name]/
-│   ├── [Challenge-Category]/
-│   │   ├── [challenge-name]/
-│   │   │   ├── writeup.md
-│   │   │   ├── [files-if-any]
+├── [platform-name]/
+│   ├── [challenge-name]/
+│   │   ├── [writeup.md]
+|   |   ├── [additional-files]
 ````
 
 ---
