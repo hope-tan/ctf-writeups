@@ -27,7 +27,7 @@ ctf-writeups/
 
 | Platform  | Category  | Challenge Name | Writeup                                  |
 | --------- | --------- | -------------- | ---------------------------------------- |
-| PicoCTF   | Web       | n0s4n1ty 1     | [📄](https://github.com/hope-tan/ctf-writeups/blob/main/n0s4n1ty_WEB.md)         |
+| PicoCTF   | Web       | n0s4n1ty 1     | [📄](https://github.com/hope-tan/ctf-writeups/blob/main/PicoCTF/web/n0s4n1ty_1.md)         |
 
 ---
 
