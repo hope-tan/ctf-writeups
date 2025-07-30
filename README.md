@@ -44,4 +44,4 @@ This repository helps me:
 
 ## 📝 License
 
-Challenge content belongs to their original creators/platforms (PicoCTF, TryHackMe, etc).
+Challenge content belongs to their original creators/platforms (PicoCTF, TryHackMe, etc). This repo is indented for fun/educational purposes only!
